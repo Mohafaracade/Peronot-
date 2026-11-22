@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Bashir Hassan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=950&lines=Software+Developer+%7C+Computer+Science+Student+%7C+Flutter+%26+Web+Developer;Java+%7C+Spring+Boot+%7C+Laravel+%7C+React+Developer;Python+%7C+Odoo+%7C+Machine+Learning+Learner;Building+Secure+Scalable+%26+User-Friendly+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=950&lines=Software+Developer+%7C+Computer+Science+Graduate+%7C+Flutter+%26+Web+Developer;Java+%7C+Spring+Boot+%7C+Laravel+%7C+React+Developer;Python+%7C+Odoo+%7C+Machine+Learning+Learner;Building+Secure+Scalable+%26+User-Friendly+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,6 +11,7 @@
 </p>
 
 ---
+
 
 ## 👨‍💻 About Me
 I am Mohamed Bashir Hassan, a Computer Science graduate and Software Developer based in Mogadishu, Somalia.
