@@ -17,7 +17,7 @@
 I am Mohamed Bashir Hassan, a Computer Science graduate and Software Developer based in Mogadishu, Somalia.
 I enjoy building modern, secure, scalable, and user-friendly systems that solve real-world problems. My main focus is on **mobile application development**, **web development**, **backend systems**, **database systems**, and **business management software**.
 
-- 🎓 Computer Science Student  
+- 🎓 Computer Science graduate  
 - 💻 Software Developer  
 - 📱 Flutter Mobile App Developer  
 - 🌐 React, Laravel, and Web Developer  
